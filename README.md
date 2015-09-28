@@ -1,2 +1,2 @@
 # hcWebdev
-WEbdev repository for Hermes Calling org.
+Webdev repository for Hermes Calling org.
